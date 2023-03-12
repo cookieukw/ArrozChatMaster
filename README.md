@@ -6,15 +6,12 @@ ArrozChatMaster/
 │   └── logo.png
 ├── src/
 │   ├── components/
-│   │   ├── Header.tsx
-│   │   ├── LoginForm.tsx
-│   │   ├── SignUpForm.tsx
-│   │   └── TaskList.tsx
 │   ├── services/
 │   │   └── firebase.services.ts
+│   ├──assets
+│   │   └── react.svg
 │   ├── App.tsx
 │   ├── index.tsx
-│   ├── react-app-env.d.ts
 │   ├── index.css
 │   └── vite-env.d.ts
 ├── .gitignore
